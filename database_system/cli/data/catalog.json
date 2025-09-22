@@ -1,0 +1,17 @@
+{
+  "A": {
+    "columns": [
+      {
+        "name": "col1",
+        "type": "INT",
+        "length": null
+      },
+      {
+        "name": "col2",
+        "type": "INT",
+        "length": null
+      }
+    ],
+    "primary_key": null
+  }
+}
